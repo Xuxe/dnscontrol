@@ -126,5 +126,9 @@
     "app-secret-key": "$OVH_APP_SECRET_KEY",
     "consumer-key": "$OVH_CONSUMER_KEY",
     "domain": "$OVH_DOMAIN"
+  },
+  "POWERDNS": {
+    "apikey": "$PDNS_API_KEY",
+    "baseurl": "$PDNS_API_BASEURL"
   }
 }

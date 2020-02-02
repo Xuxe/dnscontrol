@@ -26,4 +26,5 @@ import (
 	_ "github.com/StackExchange/dnscontrol/v2/providers/route53"
 	_ "github.com/StackExchange/dnscontrol/v2/providers/softlayer"
 	_ "github.com/StackExchange/dnscontrol/v2/providers/vultr"
+	_ "github.com/StackExchange/dnscontrol/v2/providers/powerdns"
 )
